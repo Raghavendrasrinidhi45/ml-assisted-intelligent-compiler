@@ -1,0 +1,7 @@
+OVERLEAF SETUP
+1. Open Overleaf and create a Blank Project.
+2. Upload main.tex, the src folder, and the outputs folder (or upload the whole ZIP and extract locally first).
+3. Set main.tex as the main document.
+4. Compile using pdfLaTeX.
+5. Replace student names and registration numbers on the title page.
+The report uses relative paths src/compiler.py and outputs/*.txt, so keep the folder structure intact.
